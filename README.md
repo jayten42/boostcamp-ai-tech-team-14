@@ -1,6 +1,10 @@
 # 부스캠프 AI Tech 14조 - 어? 왜 안되조?
 ### 👋 소개
 **부스트캠프 AI Tech U Stage 를 진행하며 스터디하고 토론한 내용들을 기록하는 저장소입니다.**
+### ✍️Wiki
+>[Wiki 바로가기](https://github.com/jayten42/boostcamp-ai-tech-team-14/wiki)  
+
+**깃허브 위키를 활용하여 피어세션을 기록하고 있습니다.**
 ### 👨‍👨‍👦‍👦 조원
 
 |  [김남혁](https://github.com/skaurl)  |  [서일](https://github.com/Usurper47)   |  [우종빈](https://github.com/JongbinWoo)  |  [전재열](https://github.com/) |  [조민정](https://github.com/happyBeagle)  | [최병민](https://github.com/b8choi) |
