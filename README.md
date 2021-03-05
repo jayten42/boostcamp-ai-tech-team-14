@@ -2,7 +2,7 @@
 ### 👋 소개
 **부스트캠프 AI Tech U Stage 를 진행하며 8주간 스터디하고 토론한 내용들을 기록하는 저장소입니다.**
 ### ✍️Wiki
->[Wiki 바로가기](https://github.com/jayten42/boostcamp-ai-tech-team-14/wiki)  
+>[Wiki 바로가기](https://github.com/bcaitech1/boostcamp-ai-tech-team-14/wiki)
 
 **깃허브 위키를 활용하여 피어세션을 기록하고 있습니다.**
 ### 👨‍👨‍👦‍👦 조원
